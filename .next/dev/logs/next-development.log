@@ -1,0 +1,252 @@
+[00:00:01.596] Server  LOG     
+[00:00:01.597] Server  LOG        We detected TypeScript in your project and reconfigured your tsconfig.json file for you.
+[00:00:01.597] Server  LOG        The following suggested values were added to your tsconfig.json. These values can be changed to fit your project's needs:
+
+[00:00:01.598] Server  LOG        	- include was updated to add '.next/dev/types/**/*.ts'
+[00:00:01.598] Server  LOG     
+[00:00:01.599] Server  LOG        The following mandatory changes were made to your tsconfig.json:
+
+[00:00:01.599] Server  LOG        	- jsx was set to react-jsx (next.js uses the React automatic runtime)
+[00:00:01.599] Server  LOG     
+[00:00:01.841] Server  LOG      ✓ Ready in 1128ms
+[00:00:31.362] Server  LOG      ○ Compiling / ...
+[00:00:36.550] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:38.404] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:38.404] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:38.404] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764689439060}
+[00:02:07.879] Server  LOG      ✓ Compiled in 172ms
+[00:02:10.348] Server  LOG      ✓ Compiled in 116ms
+[00:02:11.571] Server  LOG      ✓ Compiled in 75ms
+[00:02:22.924] Server  LOG      ✓ Compiled in 163ms
+[00:02:46.728] Server  LOG      ✓ Compiled in 65ms
+[00:03:12.947] Server  LOG      ✓ Compiled in 202ms
+[00:03:43.189] Server  LOG      ✓ Compiled in 88ms
+[00:03:55.482] Server  LOG      ✓ Compiled in 69ms
+[00:04:00.795] Server  LOG      ✓ Compiled in 60ms
+[00:04:08.169] Server  LOG      ✓ Compiled in 58ms
+[00:04:16.341] Server  LOG      ✓ Compiled in 55ms
+[00:04:17.734] Server  LOG      ✓ Compiled in 68ms
+[00:04:20.374] Server  LOG      ✓ Compiled in 69ms
+[00:04:29.011] Server  LOG      ✓ Compiled in 58ms
+[00:04:31.125] Server  LOG      ✓ Compiled in 61ms
+[00:04:33.965] Server  LOG      ✓ Compiled in 51ms
+[00:04:35.664] Server  LOG      ✓ Compiled in 46ms
+[00:04:38.427] Server  LOG      ✓ Compiled in 123ms
+[00:06:13.300] Server  LOG      ✓ Compiled in 102ms
+[00:06:41.412] Server  LOG      ✓ Compiled in 72ms
+[00:06:42.471] Server  LOG      ✓ Compiled in 49ms
+[00:06:46.572] Server  LOG      ✓ Compiled in 95ms
+[00:06:47.788] Server  LOG      ✓ Compiled in 60ms
+[00:07:46.900] Server  LOG      ✓ Compiled in 71ms
+[00:10:24.020] Server  LOG      ✓ Compiled in 90ms
+[00:25:26.466] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:26.715] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:25:26.715] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:25:26.715] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764690927370}
+[00:25:44.828] Server  LOG      ✓ Compiled in 80ms
+[00:26:15.099] Server  LOG      ✓ Compiled in 67ms
+[00:26:19.759] Server  LOG      ✓ Compiled in 62ms
+[00:26:23.226] Server  LOG      ✓ Compiled in 52ms
+[00:26:25.667] Server  LOG      ✓ Compiled in 67ms
+[00:26:32.986] Server  LOG      ✓ Compiled in 51ms
+[00:26:35.054] Server  LOG      ✓ Compiled in 63ms
+[00:26:42.102] Server  LOG      ✓ Compiled in 45ms
+[00:28:18.830] Server  LOG      ✓ Compiled in 128ms
+[00:28:25.657] Server  LOG      ✓ Compiled in 60ms
+[00:28:27.279] Server  LOG      ✓ Compiled in 48ms
+[00:28:40.377] Server  LOG      ✓ Compiled in 64ms
+[00:28:46.014] Server  LOG      ✓ Compiled in 56ms
+[00:29:04.847] Server  LOG      ✓ Compiled in 52ms
+[00:29:08.299] Server  LOG      ✓ Compiled in 50ms
+[00:29:48.280] Server  LOG      ✓ Compiled in 47ms
+[00:29:55.112] Server  LOG      ✓ Compiled in 60ms
+[00:29:59.732] Server  LOG      ✓ Compiled in 55ms
+[00:30:14.944] Server  LOG      ✓ Compiled in 68ms
+[00:30:20.836] Server  LOG      ✓ Compiled in 54ms
+[00:30:23.186] Server  LOG      ✓ Compiled in 61ms
+[00:30:27.810] Server  LOG      ✓ Compiled in 50ms
+[00:30:30.550] Server  LOG      ✓ Compiled in 52ms
+[00:30:40.484] Server  LOG      ✓ Compiled in 57ms
+[00:31:08.151] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:08.390] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en" className="dark">
+                          <body
+                            className="exo_2_682c0a5b-module__VgsVka__variable font-sans antialiased bg-[#0a0a0f]"
+-                           cz-shortcut-listen="true"
+                          >
+                  ...
+
+[00:31:08.390] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:31:08.391] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:31:08.391] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764691269049}
+[00:31:18.459] Server  LOG      ✓ Compiled in 53ms
+[00:31:29.141] Server  LOG      ✓ Compiled in 47ms
+[00:31:33.007] Server  LOG      ✓ Compiled in 58ms
+[00:31:36.334] Server  LOG      ✓ Compiled in 51ms
+[00:31:45.042] Server  LOG      ✓ Compiled in 52ms
+[00:31:48.268] Server  LOG      ✓ Compiled in 112ms
+[00:32:30.824] Server  LOG      ✓ Compiled in 49ms
+[00:32:44.619] Server  LOG      ✓ Compiled in 62ms
+[00:32:45.828] Server  LOG      ✓ Compiled in 50ms
+[00:32:50.032] Server  LOG      ✓ Compiled in 50ms
+[00:32:51.636] Server  LOG      ✓ Compiled in 55ms
+[00:32:54.656] Server  LOG      ✓ Compiled in 61ms
+[00:32:58.784] Server  LOG      ✓ Compiled in 55ms
+[00:33:03.687] Server  LOG      ✓ Compiled in 54ms
+[00:33:08.780] Server  LOG      ✓ Compiled in 44ms
+[00:33:11.561] Server  LOG      ✓ Compiled in 47ms
+[00:33:12.718] Server  LOG      ✓ Compiled in 51ms
+[00:33:17.297] Server  LOG      ✓ Compiled in 39ms
+[00:33:19.688] Server  LOG      ✓ Compiled in 58ms
+[00:33:21.671] Server  LOG      ✓ Compiled in 116ms
+[00:33:40.654] Server  LOG      ✓ Compiled in 54ms
+[00:33:43.340] Server  LOG      ✓ Compiled in 53ms
+[00:33:46.969] Server  LOG      ✓ Compiled in 44ms
+[00:33:51.953] Server  LOG      ✓ Compiled in 62ms
+[00:33:55.154] Server  LOG      ✓ Compiled in 52ms
+[00:34:08.414] Server  LOG      ✓ Compiled in 46ms
+[00:34:09.646] Server  LOG      ✓ Compiled in 69ms
+[00:34:15.224] Server  LOG      ✓ Compiled in 57ms
+[00:34:20.719] Server  LOG      ✓ Compiled in 61ms
+[00:34:21.797] Server  LOG      ✓ Compiled in 52ms
+[00:34:27.102] Server  LOG      ✓ Compiled in 51ms
+[00:34:29.210] Server  LOG      ✓ Compiled in 43ms
+[00:34:30.949] Server  LOG      ✓ Compiled in 48ms
+[00:34:35.723] Server  LOG      ✓ Compiled in 58ms
+[00:34:41.003] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:41.228] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en" className="dark">
+                          <body
+                            className="exo_2_682c0a5b-module__VgsVka__variable font-sans antialiased bg-[#0a0a0f]"
+-                           cz-shortcut-listen="true"
+                          >
+                  ...
+
+[00:34:41.228] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:34:41.228] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:34:41.228] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764691481887}
+[00:37:24.748] Server  LOG      ✓ Compiled in 83ms
+[00:37:27.063] Server  LOG      ✓ Compiled in 81ms
+[00:37:31.691] Server  LOG      ✓ Compiled in 90ms
+[00:37:33.325] Server  LOG      ✓ Compiled in 77ms
+[00:37:37.273] Server  LOG      ✓ Compiled in 83ms
+[00:37:42.575] Server  LOG      ✓ Compiled in 81ms
+[00:37:47.966] Server  LOG      ✓ Compiled in 60ms
+[00:37:49.149] Server  LOG      ✓ Compiled in 57ms
+[00:37:50.625] Server  LOG      ✓ Compiled in 76ms
+[00:37:57.191] Server  LOG      ✓ Compiled in 71ms
+[00:41:09.177] Server  LOG      ✓ Compiled in 75ms
+[00:41:17.197] Server  LOG      ✓ Compiled in 434ms
+[00:48:22.687] Server  LOG      ✓ Compiled in 61ms
+[00:48:32.452] Server  LOG      ✓ Compiled in 67ms
+[00:48:38.501] Server  LOG      ✓ Compiled in 114ms
+[00:48:39.519] Browser ERROR   uncaughtError: ReferenceError: SkillsSectio is not defined
+[00:48:41.161] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:48:41.574] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764692321959}
+[00:48:41.816] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:48:42.050] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:48:42.050] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:48:42.050] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764692322703}
+[00:49:13.497] Server  LOG      ✓ Compiled in 101ms
+[00:49:21.395] Server  LOG      ✓ Compiled in 69ms
+[00:49:28.464] Server  LOG      ✓ Compiled in 72ms
+[00:49:31.628] Server  LOG      ✓ Compiled in 98ms
+[00:49:36.341] Server  LOG      ✓ Compiled in 77ms
+[00:49:39.252] Server  LOG      ✓ Compiled in 75ms
+[00:49:43.070] Server  LOG      ✓ Compiled in 69ms
+[00:49:46.310] Server  LOG      ✓ Compiled in 81ms
+[00:49:51.101] Server  LOG      ✓ Compiled in 61ms
+[00:50:51.124] Server  LOG      ✓ Compiled in 50ms
+[00:50:55.124] Server  LOG      ✓ Compiled in 59ms
+[00:50:59.845] Server  LOG      ✓ Compiled in 65ms
+[00:51:06.326] Server  LOG      ✓ Compiled in 59ms
+[00:51:08.512] Server  LOG      ✓ Compiled in 53ms
+[00:51:16.061] Server  LOG      ✓ Compiled in 56ms
+[00:51:21.522] Server  LOG      ✓ Compiled in 58ms
+[00:52:00.348] Server  LOG      ✓ Compiled in 51ms
+[00:52:39.186] Server  LOG      ✓ Compiled in 49ms
+[00:52:42.590] Server  LOG      ✓ Compiled in 59ms
+[00:52:45.648] Server  LOG      ✓ Compiled in 52ms
+[00:59:44.269] Server  LOG      ✓ Compiled in 74ms
+[00:59:45.745] Server  LOG      ✓ Compiled in 71ms
+[00:59:58.378] Server  LOG      ✓ Compiled in 55ms
+[01:01:19.386] Server  LOG      ✓ Compiled in 77ms
+[01:01:20.517] Browser ERROR   ./components/contact-section.tsx:11:33
+Parsing ecmascript source code failed
+   9 |   const contactLinks = [
+  10 |     { label: "Email", value: "suyashpro9595@gmail.com", icon: "✉" },
+> 11 |     { label: "LinkedIn", value: "linkedin.com/in/suyash-pratap-singh-b28656397    const contactLinks = [
+     |                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  12 |       { label: "Email", value: "suyashpro9595@gmail.com", icon: "✉", href: "mailto:suyashpro9595@gmail.com" },
+  13 |       { label: "LinkedIn", value: "linkedin.com/in/suyash-pratap-singh-b28656397", icon: "🔗", href: "https://linkedin.com/in/suyash-pratap-singh-b28656397" },
+  14 |       { label: "GitHub", value: "github.com/yourprofile", icon: "⚙", href: "https://github.com/yourprofile" },
+
+Unterminated string constant
+
+Import traces:
+  Client Component Browser:
+    ./components/contact-section.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/contact-section.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[01:05:22.419] Server  LOG      ✓ Compiled in 238ms
